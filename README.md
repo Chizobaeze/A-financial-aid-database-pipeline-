@@ -29,6 +29,6 @@ Loading: The transformed data was then saved into CSV file, ready to be loaded i
 2. SQL SERVER: As the database management system to store and manage the campaign data.
 3. Excel: used it to store the outcome of the data from sql server.
 4. Powerbi: it was used  to visualize the financial aid dataset.
-    [charity_aids.pdf](https://github.com/user-attachments/files/17091016/charity_aids.pdf)
+![charity_aids](https://github.com/user-attachments/assets/e87f9d50-a361-4b03-9e38-23f45c9e8537)
 
 
