@@ -36,7 +36,7 @@ The designed database called charity_aids was exported from sql server to excel 
 
 # Tools Used
 1. pandas: For data manipulation,cleaning the data set and connecting it to sql server using sqlalchemy.
-2. SQL SERVER: As the database management system to store and manage the campaign data.
+2. SQL SERVER: As the database management system to store and manage the financial_aids data.
 3. Excel: used it to store the outcome of the data from sql server.
 4. Powerbi: it was used  to visualize the financial aid dataset.
 ![charity_aids](https://github.com/user-attachments/assets/e87f9d50-a361-4b03-9e38-23f45c9e8537)
